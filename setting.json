@@ -7,12 +7,8 @@
   "element-remove":[
     "script",
     "noscript",
-    "#logo",
     ".widget_text section",
     "widget_text section",
-    "meta",
-       ".single-top-ann",
-    "single-top-ann",
     ".hotslid",
     "hotslid",
     "embed",
@@ -28,8 +24,7 @@
     {
       "target":"stackoverflow.com",
       "element-remove-selector":[
-        ".js-dismissable-hero",
-        ".lazy-loading"
+        ".js-dismissable-hero"
       ],
       "replace-string":[
         {
