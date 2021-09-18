@@ -72,6 +72,9 @@ let dbAds=[
       "#container",
       ".content",
       ".pa15.bgwhite"
+      "background-image",
+      ".background-image",
+      "#background-image"
     ],
     "position":"out-top", //out-top, out-bottom, in-top, in-bottom
     "data" :`
