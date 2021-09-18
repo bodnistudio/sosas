@@ -2,7 +2,7 @@
   "name-web":"CoinTalk",
   "author":"CoinTalk",
   "remove-comment-html":true,
-  "target":"https://mp3.metrolagu.site/",
+  "target":"https://metrolagu123.club/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -11,9 +11,6 @@
     ".widget_text section",
     "widget_text section",
     "meta",
-    "button-api-frame",
-    ".button-api-frame",
-    "#button-api-frame",
        ".single-top-ann",
     "single-top-ann",
     ".hotslid",
