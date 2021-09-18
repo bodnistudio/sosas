@@ -7,6 +7,9 @@
   "element-remove":[
     "script",
     "noscript",
+    "#menu-item-26",
+    ".menu-item-26",
+    "menu-item-26",
     ".widget_text section",
     "widget_text section",
     ".hotslid",
