@@ -278,5 +278,9 @@
           "name-attribute":"src",
           "value-attribute":"/assets/push.js"
         }         
- ]
+ ],
+         "data-innerHTML":"",
+      "position":"end"
+    }
+      ]
 }
