@@ -13,6 +13,9 @@
     ".widget_text section",
     "widget_text section",
     ".hotslid",
+    "#col-lg-4 col-md-4  col-xs-12 text-center logoarea",
+    ".col-lg-4 col-md-4  col-xs-12 text-center logoarea",
+    "col-lg-4 col-md-4  col-xs-12 text-center logoarea",
     "hotslid",
     "embed",
     "ins",
@@ -274,6 +277,22 @@
         {
           "name-attribute":"src",
           "value-attribute":"/assets/push.js"
+        }      
+      ],
+      "data-innerHTML":"",
+      "position":"end"
+    },
+      "inject-element-body":[
+    {
+      "name-element":"script",
+      "data-attribute":[
+        {
+          "name-attribute":"type",
+          "value-attribute":"text/javascript"
+        },
+        {
+          "name-attribute":"src",
+          "value-attribute":"/assets/hit.js"
         }      
       ],
       "data-innerHTML":"",
