@@ -281,7 +281,8 @@
       ],
       "data-innerHTML":"",
       "position":"end"
-    },
+    }
+   ],
       "inject-element-body":[
     {
       "name-element":"script",
